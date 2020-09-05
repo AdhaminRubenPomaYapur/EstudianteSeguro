@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSeccureStudent", "ApiSec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtEstudianteSeguro.Test", "UtEstudianteSeguro.Test\UtEstudianteSeguro.Test.csproj", "{DF902E41-9047-4C58-B1A3-50DAE62B8402}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "admStudentSecurity", "admStudentSecurity\admStudentSecurity.csproj", "{246F0E4E-9016-4A7E-96D8-9C6BA04A7010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSecurity.Tests", "StudentSecurity.Tests\StudentSecurity.Tests.csproj", "{D9E5E925-8F8E-4896-8C79-97CDA359BAB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{DF902E41-9047-4C58-B1A3-50DAE62B8402}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF902E41-9047-4C58-B1A3-50DAE62B8402}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF902E41-9047-4C58-B1A3-50DAE62B8402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{246F0E4E-9016-4A7E-96D8-9C6BA04A7010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246F0E4E-9016-4A7E-96D8-9C6BA04A7010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246F0E4E-9016-4A7E-96D8-9C6BA04A7010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246F0E4E-9016-4A7E-96D8-9C6BA04A7010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E5E925-8F8E-4896-8C79-97CDA359BAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E5E925-8F8E-4896-8C79-97CDA359BAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E5E925-8F8E-4896-8C79-97CDA359BAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E5E925-8F8E-4896-8C79-97CDA359BAB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
